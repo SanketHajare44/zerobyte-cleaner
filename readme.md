@@ -184,7 +184,11 @@ ZeroByteCleaner validates the target path before scanning and writes errors dire
 
 **Sanket Sadashiv Hajare**
 
+GitHub : [Link](https://github.com/SanketHajare44)  
+LinkedIn : [Link](https://www.linkedin.com/in/sankethajare/)
+
 If you find this tool useful, feel free to ⭐ star the repository and share it!
+
 
 ---
 
